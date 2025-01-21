@@ -396,7 +396,7 @@ body {
 
     .section-title {
         text-align: center;
-        font-size: 36px;
+        font-size: 30px;
         font-weight: 700;
         line-height: 45px;
         padding-bottom: 34px;
@@ -590,8 +590,10 @@ body {
     }
 
     .logo-text {
+        display: block;
         font-size: 28px;
         text-transform: uppercase;
+        color: #ffff;
     }
 
     .footer-title {
